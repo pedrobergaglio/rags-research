@@ -1,0 +1,30 @@
+Question,Response
+Question,Response,Time Taken (s)
+"en el módulo de metalux, cuáles son los formatos habilitados para los archivos?","Finished running: retrieve:
+No 'generation' key in the response.
+Finished running: grade_documents:
+No 'generation' key in the response.
+Finished running: generate:
+Los formatos habilitados para los archivos en el módulo de Metalux son .SLDPRT y .SLDASM.
+",5.04
+dónde está alojado el servicio de mails de metalux.com.ar?,"Finished running: retrieve:
+No 'generation' key in the response.
+Finished running: grade_documents:
+No 'generation' key in the response.
+Finished running: websearch:
+No 'generation' key in the response.
+Finished running: generate:
+El servicio de mails de metalux.com.ar está alojado en Donweb Web Server.
+",18.80
+"en el módulo de metalux, cuáles son los pasos básicos para ejecutar el módulo?","Finished running: retrieve:
+No 'generation' key in the response.
+Finished running: grade_documents:
+No 'generation' key in the response.
+Finished running: websearch:
+No 'generation' key in the response.
+Finished running: generate:
+Para ejecutar el módulo Metalux, necesitas seguir los siguientes pasos básicos:
+
+1. Carga de Archivos: Coloca todos los archivos de piezas y ensambles que deseas procesar en una carpeta específica.
+2. Ejecución del Módulo: Ejecuta el archivo ejecutable del módulo o el acceso directo, seleccionando la carpeta con tus archivos de piezas y ensambles.
+",12.29
